@@ -9,6 +9,7 @@
   "author": "Jaesung Yang",
   "license": "ISC",
   "devDependencies": {
+    "@babel/preset-env": "^7.24.5",
     "browser-sync": "^3.0.2",
     "del": "^7.1.0",
     "gulp": "^4.0.2",
